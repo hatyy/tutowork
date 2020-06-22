@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello Desktop
 https://www.phusionpassenger.com/library/walkthroughs/deploy/python/ownserver/apache/oss/el7/deploy_app.html
+=======
+hello Document
+And i add this at the end of this document
+>>>>>>> 8c7a1b03515f7c93f003a23f723b6cd9de1c4133
